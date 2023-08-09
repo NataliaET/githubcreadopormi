@@ -15,7 +15,8 @@ public class Githubcreadopormi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Colores color = new Colores (3);
+        color.pintar();
     }
     
 }
